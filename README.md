@@ -1,0 +1,2 @@
+# premium-frame-build-bike-001-bicycle-frame-building-lug-b
+Stop losing track of tube miter angles and brazing temperatures—turn your frame build from chaotic workshop to a repeatable, documented craft.  This Notion template transforms the complexity of lug brazing into a structured workflow, so you can focus on the art of joining tubes with precision. It eliminates forgotten steps, misaligned joints, and l
